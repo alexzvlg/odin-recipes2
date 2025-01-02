@@ -1,0 +1,37 @@
+body,
+.menu a {
+    background-color: #ecede7;
+    font-family: "Courier New", Arial, Verdana;
+    color: #4f255f;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.recipe-title {
+    font-size: 40px;
+}
+
+.main-menu {
+    list-style: none;
+}
+
+.main-menu span {
+    font-size: 30px;
+}
+
+.main-menu a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.img-description {
+    font-size: 20px;
+}
+
+.ingredients-li,
+.steps-li {
+    font-size: 18px;
+}
