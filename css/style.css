@@ -5,6 +5,11 @@ body,
     color: #4f255f;
 }
 
+.main-menu {
+    width: 600px;
+    margin: 0 auto;
+}
+
 .title {
     text-align: center;
     font-size: 50px;
